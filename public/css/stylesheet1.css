@@ -1,0 +1,159 @@
+ body {
+        background-image: url("v674-aew-54-halloween.jpg");
+        background-color: #cccccc;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgba(255, 165, 0);
+        font-size: larger;
+        font-weight: 100;
+ }
+
+
+ h1{
+    text-align: left;
+ }
+
+ header{
+        text-align: center;
+        box-sizing: border-box;
+        display: block;
+        background-color: cornsilk;
+        margin: .5px;
+        padding: .5px;
+ }
+
+ 
+
+
+#sign-up{
+        position: fixed;
+        top: 150px;
+        right: 20px;
+}
+
+main{
+        text-align: center;
+}
+
+
+footer{
+    text-align: center;
+}
+
+a:link{
+        color: rgb(255, 165, 0);
+    }
+
+a:visited{
+        font-style: italic;
+        color: rgba(255, 0, 0);
+    }
+
+#upload{
+        text-align: right;
+
+}
+
+#upload{
+        position: fixed;
+        top: 25px;
+        right: 20px;
+}
+
+h2{
+        text-align: center;
+        top: 150px;
+        left: 300px;
+        bottom: 156px;
+        
+}
+
+nav{
+        text-align: center;
+}
+
+h5{
+        font-size: 33pt;
+        text-align: center;
+}
+
+
+#Synopsis:hover{
+        background-color: rgba(255, 0, 0);
+        font-size: 22pt;
+        text-align: center;
+}
+
+#Cast:hover{
+        background-color: rgba(255, 0, 0);
+        font-size: 22pt;
+        text-align: center;
+}
+
+#Crew:hover{
+        background-color: rgba(255, 0, 0);
+        font-size: 22pt;
+        text-align: center;
+}
+
+#Reviews:hover{
+        background-color: rgba(255, 0, 0);
+        font-size: 22pt;
+        text-align: center;
+
+}
+
+#Essays:hover{
+        background-color: rgba(255, 0, 0);
+        font-size: 22pt;
+        text-align: center;
+}
+
+    
+    input{
+        padding-left: 0px;
+        width: 1000px;
+        height: 30;
+    }
+    
+    #comments {
+        visibility: hidden;
+    }
+    #reply {
+        visibility: hidden;
+    }
+    
+    #buttons12{
+    
+        text-align: center;
+    }
+    
+    #replybutton{
+        visibility: hidden;
+    }
+    #candidate2{
+        text-align: center;
+    }
+    #dynamic-list{
+            text-align: left;
+            font-size: 14pt;
+            border-color: seagreen;
+    }
+    #dynamic-list:hover{
+        background-color:  rgba(255, 0, 0);
+    
+    }
+
+    #landingPage{
+            text-align: center;
+           
+    }
+#landingPage, h1{
+        text-align: center;
+        font-size: 30pt;
+        
+}
+   
+#small_btn{
+        width: 50px;
+        height: 25px;
+    }
